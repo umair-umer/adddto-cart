@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#cart{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.card{
+    
+    width: 300px;
+}
+.card-image{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+}
+.card-body{
+    text-align: center;
+}
